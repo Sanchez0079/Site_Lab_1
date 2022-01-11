@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    
+    background: url("../img/fon1.jpg"); 
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+.card{
+    padding: 20px;
+    width: 400px; 
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 3px 17px
+     #9f9e9e ;
+    border-radius: 10px; 
+}
+.card-photo{
+    display: block;
+    width: 100 px;
+    height:100 px;
+    margin:0 auto;
+}
+.card-title{
+    font-size: 22x;
+    text-align: center;
+}
+.card-text{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.header_inner{
+    border-bottom: 1px solid #515369;
+    padding:35px 0;
+    display: flex;
+    justify-content: center
+}
+.nav{
+    font-size: 17px;
+    font-weight:700;
+    text-transform: uppercase;
+}
+
+.nav__link{
+    margin-left: 50px;
+    color:#308e93
+    
+}
+.card-photo1{
+    display: block;
+    width: 100 px;
+    height:100 px;
+    margin:0 auto;
+    
+}
+.card-promene{
+    padding: 20px;
+    width: 800px; 
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 3px 17px
+     #9f9e9e ;
+    border-radius: 10px;
+    
+}
+.card-photo2{
+    display: flex;
+    justify-content:space-around;
+    height: 300px;
+    width: auto;
+    margin: 0 auto;
+}
+
+.card-zahoplenya{
+     padding: 20px;
+    width: 800px; 
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 3px 17px
+     #9f9e9e ;
+    border-radius: 10px;
+    
+}
